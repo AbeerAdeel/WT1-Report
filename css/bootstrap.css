@@ -1618,14 +1618,15 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
+
 .row {
   margin-right: -15px;
   margin-left: -15px;
 }
 
 .row2 {
-  margin-right: -15px;
-  margin-left: -5px;
+  margin: auto;
+  background-color: #000
 }
 
 .center-div

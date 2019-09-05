@@ -125,6 +125,18 @@ section {
 	outline: 0
 }
 
+.row2 {
+    margin: auto;
+    color: black;
+}
+
+.center {
+    margin: auto;
+    width: 130%;
+    text-align: center;
+    /* width: 1000px; */
+}
+
 .navbar-default .navbar-nav>.active>a {
 	border-radius: 0;
 	color: #fff;
