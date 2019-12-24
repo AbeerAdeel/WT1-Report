@@ -180,7 +180,7 @@ section {
 --------------------*/
 
 header {
-    background-image: url(../images/demo/bg-main.jpg);
+    background-image: url(../images/background.jpg);
     background-repeat: none;
     background-attachment: scroll;
     background-position: center center;
@@ -228,6 +228,14 @@ header .intro-text .intro-heading {
     font-size: 50px;
     line-height: 50px;
     margin-bottom: 25px;
+}
+
+header .intro-text .intro-heading2 {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    margin-bottom: 20px;
 }
 
 @media (min-width: 768px) {
